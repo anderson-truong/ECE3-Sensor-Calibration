@@ -1,4 +1,4 @@
-# UCLA ECE 3 Project - Spring 2022
+# UCLA ECE3 Sensor Calibration
 ## Arduino Setup
 <a><img src="https://github.com/anderson-truong/ECE3-Project/blob/main/Documentation/Media/arduino-logo.png" height="225" width="300"></a>
 1. [Download Arduino IDE](https://www.arduino.cc/en/software)
