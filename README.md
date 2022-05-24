@@ -10,7 +10,7 @@
 
 ## TI-RSLK IR Sensor Calibration GUI
 <a href="https://github.com/anderson-truong/ECE3-Project/blob/main/Documentation/Media/app_2_calibrated.PNG"><img src="https://github.com/anderson-truong/ECE3-Project/blob/main/Documentation/Media/app_2_calibrated.PNG" height="317" width="400" ></a>
-1. Open "Calibrate.ino" under Arduino > Calibrate.
+1. Open "Calibrate.ino" in the folder Calibrate.
 
 2. Upload to the TI-RSLK.
 
