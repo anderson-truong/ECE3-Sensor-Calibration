@@ -1,4 +1,4 @@
-# UCLA ECE 3 Project - Spring 2022
+# UCLA ECE3 Sensor Calibration
 ## Arduino Setup
 <a><img src="https://github.com/anderson-truong/ECE3-Project/blob/main/Documentation/Media/arduino-logo.png" height="225" width="300"></a>
 1. [Download Arduino IDE](https://www.arduino.cc/en/software)
@@ -10,7 +10,7 @@
 
 ## TI-RSLK IR Sensor Calibration GUI
 <a href="https://github.com/anderson-truong/ECE3-Project/blob/main/Documentation/Media/app_2_calibrated.PNG"><img src="https://github.com/anderson-truong/ECE3-Project/blob/main/Documentation/Media/app_2_calibrated.PNG" height="317" width="400" ></a>
-1. Open "Calibrate.ino" under Arduino > Calibrate.
+1. Open "Calibrate.ino" in the folder Calibrate.
 
 2. Upload to the TI-RSLK.
 
